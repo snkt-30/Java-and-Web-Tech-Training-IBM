@@ -1,0 +1,5 @@
+class -> For the class snippet
+
+main ->  for the main method snippet
+
+so -> for the system.out.println snippet
